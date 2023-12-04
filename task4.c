@@ -55,6 +55,9 @@ int main(void){
         case 12:
             printf("December\n");
             break;
+
+        default:
+            printf("Error\n");
     }
 }
 
