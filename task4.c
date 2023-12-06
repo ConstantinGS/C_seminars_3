@@ -9,51 +9,51 @@ int main(void){
     switch (month)
     {
         case 1:
-            printf("January\n");
+            printf("Winter\n");
             break;
 
         case 2:
-            printf("February\n");
+            printf("Winter\n");
             break;
          
         case 3:
-            printf("Mart\n");
+            printf("Spring\n");
             break;
 
         case 4:
-            printf("April\n");
+            printf("Spring\n");
             break;
 
         case 5:
-            printf("May\n");
+            printf("Spring\n");
             break;
 
         case 6:
-            printf("June\n");
+            printf("Summer\n");
             break;
 
         case 7:
-            printf("Jule\n");
+            printf("Summer\n");
             break;
 
         case 8:
-            printf("August\n");
+            printf("Summer\n");
             break;
 
         case 9:
-            printf("September\n");
+            printf("Autumn\n");
             break;
 
         case 10:
-            printf("October\n");
+            printf("Autumn\n");
             break;
 
         case 11:
-            printf("November\n");
+            printf("Autumn\n");
             break;
 
         case 12:
-            printf("December\n");
+            printf("Winter\n");
             break;
 
         default:
